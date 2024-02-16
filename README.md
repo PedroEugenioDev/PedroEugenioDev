@@ -9,9 +9,10 @@ Electronic engineer with experience in start-up environment and front-end traini
 * 🌍  I'm based in Brasilia, Brazil
 * 🖥️  See my portfolio at [https://github.com/PedroEugenioDev](http://minimalistic-kanban.vercel.app/)
 * ✉️  You can contact me at [pedroeugenio.dev@gmail.com](mailto:pedroeugenio.dev@gmail.com)
-* 🚀  I'm currently working on [Minimalistic Kanban](http://minimalistic-kanban.vercel.app/)
+* 🚀  I'm currently working on [Minimalistic Kanban](http://minimalistic-kanban.vercel.app/) 
 * 🧠  I'm learning Next.js and Node.js
 * 🤝  I'm open to collaborating on I'm open to collaborating on projects as a frontend developer.
+* ⚡  I'm also a DIY and 3D printing enthusiatic.
 
 ### Skills
 
