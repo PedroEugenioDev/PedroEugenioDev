@@ -11,7 +11,7 @@ Electronic engineer with experience in start-up environment and front-end traini
 * ✉️  You can contact me at [pedroeugenio.dev@gmail.com](mailto:pedroeugenio.dev@gmail.com)
 * 🚀  I'm currently working on [Minimalistic Kanban](http://minimalistic-kanban.vercel.app/) 
 * 🧠  I'm learning Next.js and Node.js
-* 🤝  I'm open to collaborating on I'm open to collaborating on projects as a frontend developer.
+* 🤝  I'm open to collaborating on projects as a frontend developer.
 * ⚡  I'm also a DIY and 3D printing enthusiatic.
 
 ### Skills
