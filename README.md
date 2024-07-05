@@ -4,14 +4,14 @@ Hi 👋 My name is Pedro Machado
 Web developer
 -------------
 
-Electronic engineer with experience in start-up environment and front-end training looking for a Junior Software Engineer position. Understanding of agile development with Scrum and Kanban, software development with Next,js.
+Electronic engineer with experience in start-up environment and front-end training looking for a Junior Software Engineer position. Understanding of agile development with Scrum and Kanban, software development with React, Next.js, Node.js and so on.
 
 * 🌍  I'm based in Brasilia, Brazil
 * 🖥️  See my portfolio at [https://github.com/PedroEugenioDev](http://minimalistic-kanban.vercel.app/)
 * ✉️  You can contact me at [pedroeugenio.dev@gmail.com](mailto:pedroeugenio.dev@gmail.com)
-* 🚀  I'm currently working on [Minimalistic Kanban](http://minimalistic-kanban.vercel.app/) 
-* 🧠  I'm learning Next.js and Node.js
-* 🤝  I'm open to collaborating on projects as a frontend developer.
+* 🚀  I'm currently working on [Oraclebell: Shaman King API](https://github.com/PedroEugenioDev/Oraclebell) 
+* 🧠  I'm learning MERN Stack and Python
+* 🤝  I'm open to collaborating on projects as a fullstack developer.
 * ⚡  I'm also a DIY and 3D printing enthusiatic.
 
 ### Skills
